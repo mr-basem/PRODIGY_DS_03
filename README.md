@@ -42,7 +42,6 @@ Visualization
 The project also includes visualizations like the decision tree and a confusion matrix to better understand the model's decisions.
 
 How to Run the Project
-git clone https://github.com/your-username/repository-name.git
 cd repository-name
 Install Dependencies:
 pip install -r requirements.txt
